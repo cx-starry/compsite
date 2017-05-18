@@ -1,0 +1,29 @@
+1.整站布局
+
+布局模块：
+header
+nav
+search
+
+main
+
+	section
+	options
+	main_ad
+side
+	section_side
+
+
+footer
+
+样式重置
+
+
+公共样式：
+wrap
+fl
+fr
+clear
+
+
+结构模块：
